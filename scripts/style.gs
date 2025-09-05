@@ -1,3 +1,5 @@
+const TITLE_COLOR = '#d9ead3'
+
 /**
  * Styles a range of rows in the active sheet.
  * @param {number} startRow - The starting row number (1-based).

@@ -2,7 +2,6 @@ const API_KEY = 'API_TOKEN';
 const DEFAULT_SUBS = 500000;
 const DEFAULT_CHANNELS = 5;
 const RADIX = 10;
-const TITLE_COLOR = '#d9ead3'
 
 /**
  * Fetches and outputs YouTube channels matching a subject and subscriber threshold.
